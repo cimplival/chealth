@@ -1,0 +1,7 @@
+.datepicker.active {
+  z-index: 1600 !important;
+}
+
+.datepicker--day-name {
+  color: #16aad8;
+}

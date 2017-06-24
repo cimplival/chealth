@@ -1,0 +1,259 @@
+sup {
+	vertical-align: baseline;
+	position: relative;
+	top: -0.4em;
+}
+sub {
+	vertical-align: baseline;
+	position: relative;
+	top: 0.4em;
+}
+.stl_01 {
+	border-style: none;
+	position: relative;
+	width: 595pt;
+	margin: -70pt;
+	height: 842pt;
+	display: inline-block;
+}
+.stl_02 {
+	position: absolute;
+	left: 0pt;
+	top: 0pt;
+}
+.stl_03 {
+	position: absolute;
+	line-height: 14.58789pt;
+	left: 177.5pt;
+	top: 168.4695pt;
+}
+@font-face {
+	font-family:"TOKPJR+Tinos-Bold";
+	src:url("78ade966-0001-0000-0000-000000000000.ttf");
+}
+.stl_04 {
+	color: #000000;
+	font-weight: bold;
+	display: inline;
+	font-size: 14pt;
+	font-family: "TOKPJR+Tinos-Bold";
+}
+.stl_05 {
+	position: absolute;
+	line-height: 12.50391pt;
+	left: 226.6pt;
+	top: 200.4453pt;
+}
+.stl_06 {
+	color: #000000;
+	font-weight: bold;
+	display: inline;
+	font-size: 12pt;
+	font-family: "TOKPJR+Tinos-Bold";
+}
+.stl_07 {
+	position: absolute;
+	line-height: 12.50391pt;
+	left: 56.8pt;
+	top: 228.0453pt;
+}
+.stl_08 {
+	position: absolute;
+	line-height: 12.50391pt;
+	left: 411.3pt;
+	top: 228.0453pt;
+}
+.stl_09 {
+	position: absolute;
+	line-height: 7.293945pt;
+	left: 453.7pt;
+	top: 227.6348pt;
+}
+.stl_10 {
+	color: #000000;
+	font-weight: bold;
+	display: inline;
+	font-size: 7pt;
+	font-family: "TOKPJR+Tinos-Bold";
+}
+.stl_11 {
+	position: absolute;
+	line-height: 12.50391pt;
+	left: 56.8pt;
+	top: 255.6453pt;
+}
+@font-face {
+	font-family:"CSAFJE+Tinos";
+	src:url("e827cf2c-0000-0000-0000-000000000000.ttf");
+}
+.stl_12 {
+	color: #000000;
+	display: inline;
+	font-size: 12pt;
+	font-family: "CSAFJE+Tinos";
+}
+.stl_13 {
+	position: absolute;
+	line-height: 12.50391pt;
+	left: 56.8pt;
+	top: 283.2453pt;
+}
+.stl_14 {
+	position: absolute;
+	line-height: 12.50391pt;
+	left: 411.8pt;
+	top: 255.6453pt;
+}
+.stl_15 {
+	position: absolute;
+	line-height: 12.50391pt;
+	left: 411.3pt;
+	top: 283.2453pt;
+}
+.stl_16 {
+	position: absolute;
+	line-height: 12.50391pt;
+	left: 56.8pt;
+	top: 310.8453pt;
+}
+.stl_17 {
+	position: absolute;
+	line-height: 12.50391pt;
+	left: 411.3pt;
+	top: 310.8453pt;
+}
+@font-face {
+	font-family:"NAQISA+DroidSans";
+	src:url("4cd8f439-0000-0000-0000-000000000000.ttf");
+}
+.stl_18 {
+	color: #000000;
+	display: inline;
+	font-size: 12pt;
+	font-family: "NAQISA+DroidSans";
+}
+.stl_19 {
+	position: absolute;
+	line-height: 12.50391pt;
+	left: 56.8pt;
+	top: 338.7453pt;
+}
+.stl_20 {
+	position: absolute;
+	line-height: 12.50391pt;
+	left: 56.8pt;
+	top: 366.3453pt;
+}
+.stl_21 {
+	position: absolute;
+	line-height: 12.50391pt;
+	left: 56.8pt;
+	top: 393.9453pt;
+}
+.stl_22 {
+	position: absolute;
+	line-height: 27pt;
+	left: 56.8pt;
+	top: 414.1453pt;
+}
+.stl_23 {
+	position: absolute;
+	line-height: 27pt;
+	left: 56.8pt;
+	top: 440.1453pt;
+}
+.stl_24 {
+	position: absolute;
+	line-height: 27pt;
+	left: 56.8pt;
+	top: 466.7453pt;
+}
+.stl_25 {
+	position: absolute;
+	line-height: 12.50391pt;
+	left: 56.8pt;
+	top: 499.3453pt;
+}
+.stl_26 {
+	position: absolute;
+	line-height: 12.50391pt;
+	left: 56.8pt;
+	top: 524.9453pt;
+}
+.stl_27 {
+	position: absolute;
+	line-height: 12.50391pt;
+	left: 56.8pt;
+	top: 552.5453pt;
+}
+.stl_28 {
+	position: absolute;
+	line-height: 12.50391pt;
+	left: 56.8pt;
+	top: 580.1453pt;
+}
+.stl_29 {
+	position: absolute;
+	line-height: 12.50391pt;
+	left: 56.8pt;
+	top: 608.7453pt;
+}
+.stl_30 {
+	position: absolute;
+	line-height: 12.50391pt;
+	left: 56.8pt;
+	top: 636.3453pt;
+}
+.stl_31 {
+	position: absolute;
+	line-height: 12.50391pt;
+	left: 56.8pt;
+	top: 664.9453pt;
+}
+.stl_32 {
+	position: absolute;
+	line-height: 12.50391pt;
+	left: 56.8pt;
+	top: 692.3453pt;
+}
+.stl_33 {
+	position: absolute;
+	line-height: 12.50391pt;
+	left: 411.3pt;
+	top: 720.3453pt;
+}
+.stl_34 {
+	position: absolute;
+	line-height: 10.41992pt;
+	left: 100.8pt;
+	top: 748.1211pt;
+}
+@font-face {
+	font-family:"WTPFLF+LiberationSerif";
+	src:url("6c0aeb18-0000-0000-0000-000000000000.ttf");
+}
+.stl_35 {
+	margin-left:50pt;
+	margin-top:250px;
+	padding-top:250px
+	color: #000000;
+	display: inline;
+	font-size: 8pt;
+	font-family: "WTPFLF+LiberationSerif";
+}
+.stl_36 {
+	position: absolute;
+	line-height: 5.41992pt;
+	left: 126.7pt;
+	top: 774.6211pt;
+}
+body > div {
+min-width: 595pt;
+min-height: 842pt;
+}
+
+body {
+	margin-left:60px;
+}
+
+
