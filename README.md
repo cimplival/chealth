@@ -1,2 +1,2 @@
 # chealth
-Opensource electronic medical records (EMR) sytem.
+Opensource electronic medical records (EMR) system.
